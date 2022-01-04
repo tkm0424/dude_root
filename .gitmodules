@@ -1,0 +1,8 @@
+[submodule "api"]
+ path = api
+ url = https://github.com/tkm0424/dude_app
+
+[submodule "front"]
+ path = front
+ url = https://github.com/tkm0424/dude_front
+
