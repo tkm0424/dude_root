@@ -1,6 +1,6 @@
 [submodule "api"]
  path = api
- url = https://github.com/tkm0424/dude_app
+ url = https://github.com/tkm0424/dude_api
 
 [submodule "front"]
  path = front
